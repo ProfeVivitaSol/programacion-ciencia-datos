@@ -1,13 +1,11 @@
 # programacion-ciencia-datos
 Repositorio académico con demostraciones utilizando el algoritmo de clasificación
-# programacion-ciencia-datos
-Repositorio académico con demostraciones utilizando el algoritmo de clasificación
 
-# 🚀 Taller de Programación para Ciencia de Datos
+### 🚀 Taller de Programación para Ciencia de Datos
 
 Este material fue utilizado como apoyo en una jornada práctica orientada a introducir herramientas y metodologías ampliamente utilizadas en el mundo profesional y académico.
 
-# 📚 Contenido del taller
+### 📚 Contenido del taller
 
 Durante el taller se trabajó con:
 
@@ -21,7 +19,7 @@ Durante el taller se trabajó con:
 - ✅ Uso de Jupyter Notebook
 - ✅ Creación de gráficos 
 
-# 🧠 Objetivo del taller
+### 🧠 Objetivo del taller
 
 El objetivo principal fue que los estudiantes pudieran:
 
@@ -31,7 +29,7 @@ El objetivo principal fue que los estudiantes pudieran:
 ✔ Implementar modelos simples utilizando Scikit-learn  
 ✔ Interpretar resultados y visualizaciones  
 
-# 🛠️ Tecnologías utilizadas
+### 🛠️ Tecnologías utilizadas
 
 - ✅ Python
 - ✅ Pandas
@@ -40,11 +38,11 @@ El objetivo principal fue que los estudiantes pudieran:
 - ✅ Scikit-learn
 - ✅ Jupyter Notebook
 
-# 👩‍🏫 Tallerista
+### 👩‍🏫 Tallerista
 
 Taller desarrollado por **Vivita Sol** como instancia práctica de introducción a la Programación y Ciencia de Datos aplicada a Ingeniería. 💙
 
 
-# 📜 Licencia
+### 📜 Licencia
 
 Proyecto con fines educativos y académicos.
